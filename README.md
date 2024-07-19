@@ -45,11 +45,11 @@ The growth environment of strawberries is complex, and the morphology and struct
 </div>
 
 ## Ours Strawberries dataset
-We have the largest strawberry dataset of our own, with a total of 5600 photos. We used the dataset augmentation method (https://roboflow.com/) to expand to 16800 images. The training set contains 13,800 images and the test set contains 3,000 images. The data set is named "LSDS".
+We have our largest strawberry data set, a total of 5600 photos, and use the data set expansion method (https://roboflow.com/) to expand the data set to 16800 images. The training, validation and test sets contained 10800,3000 and 3000 images, respectively. Dataset is named SID.
 <a href="https://pan.baidu.com/s/16QgjgUCHFKQfsVm3-P1agg  ">Click here to view and download the dataset</a>
-The file has an extraction code, and the secret is the name of the data set LSDS.
+The file has an extraction code, and the secret is the name of the data set SID.
 
-### LSDS Dataset example
+### SID Dataset example
 
 <div align="center">
 <img src="https://s2.loli.net/2023/09/06/r2G9ODnwQ8aomIx.jpg" width="700px">
