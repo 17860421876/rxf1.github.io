@@ -1,9 +1,6 @@
 
 <div align="center">
-  <p>
-    <a href="https://github.com/ultralytics/assets/releases/tag/v8.2.0" target="_blank">
-      <img width="100%" src="https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/banner-yolov8.png" alt="YOLO Vision banner"></a>
-  </p>
+<img src="https://s2.loli.net/2023/09/06/ZipkBhjlL1y4seR.png" width="310px">
 </div>
 
 # RCEA-YOLOv8: A strawberry target precision detection method at different ripening stages under a novel attention mechanism
