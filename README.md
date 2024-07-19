@@ -17,8 +17,8 @@
   
   
 
-  [🛠️Installation Dependencies](https://blog.csdn.net/m0_46556474/article/details/130778016) |
-  [🎤Introduction](https://github.com/open-mmlab/mmdetection) |
+  [🛠️Installation Dependencies](https://blog.csdn.net/matt45m/article/details/134396179) |
+  [🎤Introduction](https://github.com/ultralytics/ultralytics?tab=readme-ov-file) |
  
   [👀Download Dataset](https://pan.baidu.com/s/16QgjgUCHFKQfsVm3-P1agg )) |
   
