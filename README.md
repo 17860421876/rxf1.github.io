@@ -61,7 +61,7 @@ The experiments conducted verified the contribution of the receptive field coord
 ### Ablation experiments in SID dataset
 <div align="center">
   
-<img src="https://github.com/17860421876/rxf1.github.io/blob/main/giajinde%20yolov8/jieguo.png" width="450px">
+<img src="https://github.com/17860421876/rxf1.github.io/blob/main/giajinde%20yolov8/xiaorong.png" width="450px">
 
 </div>
 
@@ -69,7 +69,7 @@ The experiments conducted verified the contribution of the receptive field coord
 To assess the efficacy of the improved model on a variety of datasets, experiments were conducted on four different datasets for both the improved model and the baseline model. The following table presents diverse performance metrics, namely P, R, MAP50, MAP50-95 and Param(M), during training on the SID, StrawDI_Db1, and Internet datasets.
 
 <div align="center">
-<img src="https://github.com/17860421876/rxf1.github.io/blob/main/giajinde%20yolov8/jieguo.png" width="450px">
+<img src="https://github.com/17860421876/rxf1.github.io/blob/main/giajinde%20yolov8/shujujiduibi.png" width="450px">
 </div>
 
  </div>
