@@ -3,7 +3,7 @@
  
 
 
-<img src="https://s2.loli.net/2023/09/06/ZipkBhjlL1y4seR.png" width="310px">
+<img src="https://s2.loli.net/2023/09/06/ZipkBhjlL1y4seR.png](https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/banner-yolov8.png" width="310px">
 
  
 </div>
