@@ -32,12 +32,10 @@
 
 ## Dependencies:
 
- - Python 3.7
- - [PyTorch](https://pytorch.org/) 1.10
- - [Torchvision](https://pypi.org/project/torchvision/) 0.11.0
- - [OpenCV](https://opencv.org/) 4.7.0
+ - Python 3.8
+ - [PyTorch](https://pytorch.org/) 2.0
+ - [Torchvision](https://pypi.org/project/torchvision/) 0.15.0
  - Ubuntu 20.04.5 LTS 
- - [MMCV](https://github.com/open-mmlab/mmcv)
  - NVIDIA Tesla P100
    
 
