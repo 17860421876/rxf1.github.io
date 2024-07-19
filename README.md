@@ -76,14 +76,14 @@ To assess the efficacy of the improved model on a variety of datasets, experimen
  </div>
  
  ## Test result
- The results obtained from testing were based on the models proposed in b and d, while a and c represent the results obtained from the baseline models. The LDSD dataset was employed for experimentation.
+ The results obtained from testing were based on the models proposed in a1, a2 and a3, while b1, b2 and b3 represent the results obtained from the baseline models. The LDSD dataset was employed for experimentation.
 
  <div align="center">
 <img src="https://github.com/17860421876/rxf1.github.io/blob/main/giajinde%20yolov8/jieguo.png" width="450px">
  </div>
  
   ## Test result
- The results obtained from testing were based on the models proposed in b and d, while a and c represent the results obtained from the baseline models. The LDSD dataset was employed for experimentation.
+ The results obtained from testing were based on the models proposed in a3 and b3, while a2 and b2 represent the results obtained from the baseline models. The LDSD dataset was employed for experimentation.
 
  <div align="center">
 <img src="https://github.com/17860421876/rxf1.github.io/blob/main/giajinde%20yolov8/retu.png" width="450px">
