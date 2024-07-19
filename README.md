@@ -10,26 +10,6 @@
 
 <div align="center">
 
-<b><font size="5">OpenMMLab website</font></b>
-    <sup>
-      <a href="https://openmmlab.com/">
-        <i><font size="4">HOT</font></i>
-      </a>
-    </sup>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <b><font size="5">OpenMMLab platform</font></b>
-    <sup>
-      <a href="https://openmmlab.com/">
-        <i><font size="4">TRY IT OUT</font></i>
-      </a>
-    </sup>
-    <b><font size="5">NVIDIA Tesla P100</font></b>
-    <sup>
-      <a href="https://www.nvidia.cn/data-center/tesla-p100/">
-        <i><font size="4">GET IT</font></i>
-      </a>
-    </sup>
-
   ![](https://img.shields.io/badge/python-3.7-red)
   [![](https://img.shields.io/badge/pytorch-1.10-red)](https://pytorch.org/)
   [![](https://img.shields.io/badge/torchvision-0.11.0-red)](https://pypi.org/project/torchvision/)
