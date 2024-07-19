@@ -8,7 +8,7 @@
  
 </div>
 
-# Upgrading Swin-B Transformer-Based Model for Accurately Identifying Ripe Strawberries by Coupling Task-Aligned One-Stage Object Detection Mechanism
+# RCEA-YOLOv8: A strawberry target precision detection method at different ripening stages under a novel attention mechanism
 
 <div align="center">
 
