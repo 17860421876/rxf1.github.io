@@ -75,7 +75,7 @@ To assess the efficacy of the improved model on a variety of datasets, experimen
  </div>
  
  ## Test result
- The results obtained from testing were based on the models proposed in a1, a2 and a3, while b1, b2 and b3 represent the results obtained from the baseline models. The SID dataset was employed for experimentation.
+ The results obtained from testing were based on the models proposed in a and c, while b and d represent the results obtained from the baseline models. The SID dataset was employed for experimentation.
 
  <div align="center">
 <img src="https://github.com/17860421876/rxf1.github.io/blob/main/giajinde%20yolov8/jieguo1.png" width="450px">
