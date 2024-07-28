@@ -75,7 +75,7 @@ To assess the efficacy of the improved model on a variety of datasets, experimen
  </div>
  
  ## Test result
- The results obtained from testing were based on the models proposed in a and c, while b and d represent the results obtained from the baseline models. The SID dataset was employed for experimentation.
+a and c are the RCEA-YOLOv8 model test results, and b and d are the YOLOv8 model test results.
 
  <div align="center">
 <img src="https://github.com/17860421876/rxf1.github.io/blob/main/giajinde%20yolov8/jieguo1.png" width="450px">
