@@ -75,7 +75,7 @@ To assess the efficacy of the improved model on a variety of datasets, experimen
  </div>
  
  ## Test result
-a and c are the RCEA-YOLOv8 model test results, and b and d are the YOLOv8 model test results.
+a1 and a2 are the RCEA-YOLOv8 model test results, and b1 and b2 are the YOLOv8 model test results.
 
  <div align="center">
 <img src="https://github.com/17860421876/rxf1.github.io/blob/main/giajinde%20yolov8/1.png" width="450px">
