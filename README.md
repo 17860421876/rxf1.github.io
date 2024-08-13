@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://github.com/17860421876/rxf1.github.io/blob/main/giajinde%20yolov8/kappframework-DtBoeZ(1)(1).png" width="400px">
+<img src="https://github.com/17860421876/rxf1.github.io/blob/main/giajinde%20yolov8/RCEA.png" width="400px">
 </div>
 
 # RCEA-YOLOv8: A strawberry target precision detection method at different ripening stages under a novel attention mechanism
